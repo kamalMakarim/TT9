@@ -15,7 +15,7 @@ const Navbar = () => {
           className="font-semibold text-xl tracking-tight"
           onClick={() => navigate("/home")}
         >
-          Kamal
+          Big Brain
         </span>
       </div>
 
